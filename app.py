@@ -1358,7 +1358,7 @@ if nav == "How It Works":
             "Recall": [1.000, 0.941, 0.941],
             "F1": [0.791, 0.552, 0.561],
         }), hide_index=True, use_container_width=True)
-        st.caption("Exploratory Phase 5 results on 140 statements with provisional AI-assisted labels. "
+        st.caption("Exploratory Phase 5 results on 140 statements with AI-assisted, manually reviewed labels."
                    "These figures do not evaluate this deployed version or establish clinical accuracy.")
     st.markdown("### Limitations")
     st.write("Records can be incomplete or misattributed; some city coordinates are uncertain. "
