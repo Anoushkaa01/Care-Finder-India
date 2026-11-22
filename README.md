@@ -2,6 +2,15 @@
 
 Care Finder India is a Streamlit application for finding healthcare facilities in India based on a requested service and location. It uses recorded information from the Virtue Foundation healthcare facilities dataset and explains why a facility appears in the results.
 
+
+## Live Demo
+
+Care Finder India is deployed as a Streamlit application on Databricks.
+
+[Open Care Finder India](https://care-finder-india-7474652914418549.aws.databricksapps.com)
+
+Note: Access may require Databricks authentication and appropriate permissions.
+
 ## What the application does
 
 - Searches for dialysis, NICU, MRI, trauma care, burn care, general emergency care, and emergency C-sections.
