@@ -1,0 +1,9 @@
+
+streamlit
+databricks-sdk
+databricks-sql-connector
+pandas
+pyarrow
+pydeck
+streamlit-geolocation
+

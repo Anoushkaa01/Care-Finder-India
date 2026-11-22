@@ -1,0 +1,85 @@
+review_id,gold_label,review_note
+01-01,direct,
+01-02,direct,
+01-03,direct,Dialysis center and active treatment cycles explicitly described; check that the centre belongs to the named facility.
+01-04,direct,"Explicit dialysis modalities listed, but current service availability is not verified."
+01-05,unrelated_or_contradicted,
+01-06,unrelated_or_contradicted,
+01-07,unrelated_or_contradicted,
+01-08,unrelated_or_contradicted,
+01-09,direct,
+01-10,direct,
+01-11,direct,
+01-12,unrelated_or_contradicted,
+02-01,direct,
+02-02,direct,
+02-03,direct,
+02-04,direct,
+02-05,unrelated_or_contradicted,
+02-06,unrelated_or_contradicted,
+02-07,unrelated_or_contradicted,
+02-08,unrelated_or_contradicted,
+02-09,direct,
+02-10,direct,
+02-11,direct,
+02-12,direct,
+03-01,direct,
+03-02,misattributed,Claim explicitly names District Hospital Amravati rather than the listed Yadgire facility.
+03-03,direct,
+03-04,direct,
+03-05,unrelated_or_contradicted,
+03-06,unrelated_or_contradicted,
+03-07,unrelated_or_contradicted,
+03-08,unrelated_or_contradicted,
+03-09,direct,
+03-10,direct,
+03-11,direct,
+03-12,supporting_only,"MRI stated for diagnostic network, not explicitly for this branch."
+04-01,supporting_only,Trauma appears in a specialty list; does not establish dedicated trauma service or emergency readiness.
+04-02,direct,
+04-03,supporting_only,"Orthopaedics & Trauma is a specialty label, not a described trauma service."
+04-04,direct,"Explicit orthopedic trauma care, but scope is orthopedic, not comprehensive polytrauma."
+04-05,unrelated_or_contradicted,
+04-06,unrelated_or_contradicted,
+04-07,unrelated_or_contradicted,
+04-08,unrelated_or_contradicted,
+04-09,direct,
+04-10,direct,
+04-11,supporting_only,Orthopedics & Trauma is a specialty label without details of capability.
+04-12,direct,
+05-01,supporting_only,Facial plastic surgery does not establish burn treatment.
+05-02,direct,Dedicated burn operating theatre suggests burn-treatment capability; not proof of availability now.
+05-03,supporting_only,Plastic surgery and gender-affirming surgery do not establish burn treatment.
+05-04,supporting_only,"Plastic surgery specialty mentioned, burn treatment not established."
+05-05,unrelated_or_contradicted,
+05-06,unrelated_or_contradicted,
+05-07,unrelated_or_contradicted,
+05-08,unrelated_or_contradicted,
+05-09,supporting_only,Plastic surgery procedures do not establish burn care.
+05-10,supporting_only,Plastic surgery specialty alone insufficient.
+05-11,supporting_only,Plastic surgery instruments alone insufficient.
+05-12,supporting_only,Plastic surgery alone insufficient.
+06-01,direct,
+06-02,supporting_only,"Emergency and critical care medicine listed among specialties, not explicit ED provision."
+06-03,supporting_only,"Emergency Medicine listed among specialties, not explicit ED provision."
+06-04,direct,
+06-05,unrelated_or_contradicted,
+06-06,unrelated_or_contradicted,
+06-07,unrelated_or_contradicted,
+06-08,unrelated_or_contradicted,
+06-09,direct,
+06-10,unrelated_or_contradicted,"Emergency booking is administrative, not emergency clinical care."
+06-11,supporting_only,Mass-casualty response capability supports emergency preparedness but does not explicitly identify a general ED.
+06-12,direct,
+07-01,supporting_only,
+07-02,supporting_only,
+07-03,supporting_only,
+07-04,supporting_only,
+07-05,unrelated_or_contradicted,
+07-06,unrelated_or_contradicted,
+07-07,unrelated_or_contradicted,
+07-08,unrelated_or_contradicted,
+07-09,supporting_only,Normal delivery does not establish emergency C-section.
+07-10,unrelated_or_contradicted,"Delivery refers to dental implants, not obstetric delivery."
+07-11,supporting_only,"C-sections described, but emergency availability not established."
+07-12,supporting_only,Painless delivery doesn't establish emergency C-section.
